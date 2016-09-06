@@ -1,6 +1,6 @@
 # \<pony\>
 template for ploymer application
-
+ $ polymer build
 
 
 
