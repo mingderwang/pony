@@ -1,0 +1,7 @@
+{
+  "name": "pony",
+  "short_name": "pony",
+  "description": "front-end for remote execute kubectl with progress bar",
+  "start_url": "/",
+  "display": "standalone"
+}
